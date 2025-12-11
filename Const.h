@@ -1,6 +1,8 @@
 //===========================================================================
-// GAME CONSTANTS - Pixel Racers
-// Consolates all constant numbers, colors, and enums used across the project
+// Const.h
+// Author: Jody Spikes, Hailey Pieper, Ian Dudley
+// Title: Game Constants
+// Description: Central constants, colors, and enums for Pixel Racers
 //===========================================================================
 
 #ifndef Const_h
@@ -139,3 +141,4 @@ enum AILane {
 };
 
 #endif /* Const_h */
+
